@@ -1,6 +1,6 @@
 # Git-Workshop-Attendees
 
-This repo is meant for acquainting participants of the Git & GSoC workshop (organized by IET On Campus, BIT Mesra annually) with the process of *properly* contributing to a repository on GitHub.
+This repo is meant for acquainting participants of the Git & GSoC workshop (organized by IET On Campus, BIT Mesra annually) with the process of *properly* contributing to a repository on GitHub. Make sure you have [installed git](./Git_Install_Instructions.md) and followed the [configuration instructions](./Git_Config_Instructions.md). In case of any doubts, head over to the *#git-github* channel on [our slack workspace](https://kutt.it/ietslack). Also, this repo includes the [workshop slides](./Git_Github_Slides.pdf), which has links to some great resources for learning Git and GitHub!
 
 ## Instructions:
 
