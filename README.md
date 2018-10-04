@@ -14,6 +14,12 @@ Follow these steps to create your first pull request! (Do **NOT** copy paste the
   git clone https://github.com/aksh1618/Git-Workshop-Attendees
   ```
 
+- Go to the cloned repo's directory:
+
+  ```
+  cd Git-Workshop-Attendees
+  ```
+
 - Create a branch: `current_year_<your roll number>`:
 
   ```git
