@@ -1,0 +1,1 @@
+I am Sourav Jain from Nabarangpur, Odisha. Currently, I am studying in BIT (branch - IT(2K18). Previously, I studied in Visakhapatnam, Andhra Pradesh.  My hobbies are watching Hollywood movies and playing mobile games. I am familiar with C & C++. 
