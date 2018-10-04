@@ -4,37 +4,53 @@ This repo is meant for acquainting participants of the Git & GSoC workshop (orga
 
 ## Instructions:
 
+Follow these steps to create your first pull request! (Do **NOT** copy paste the commands, they are examples! Use commands specific to your case.)
+
 - Fork this repo: Click on fork on the GitHub page.
 
-- Clone your fork: 
+- Clone your fork (Click on `clone or download` on **your fork's page** and use the link):
 
-  `git clone https://github.com/aksh1618/Git-Workshop-Attendees`
+  ```git
+  git clone https://github.com/aksh1618/Git-Workshop-Attendees
+  ```
 
-- Create a branch: current_year_<your roll number>: 
+- Create a branch: `current_year_<your roll number>`:
 
-  `git branch 2018_be1013015`
+  ```git
+  git branch 2018_be1013015
+  ```
 
-- Checkout the branch: 
+- Checkout the branch:
 
-  `git checkout 2018_be1013015`
+  ```git
+  git checkout 2018_be1013015
+  ```
 
-- Create an MD file with name <rollno>_<name>.md: 
+- Create an MD file with name `<rollno>_<name>.md`:
 
-  `be1013015_aakarshit_uppal.md`
+  ```git
+  touch be1013015_aakarshit_uppal.md
+  ```
 
-- Write stuff about yourself! (Try to keep it short :P)
+- Open it and write stuff about yourself! (Try to keep it short :P)
 
-- Add the file to git: 
+- Add the file to git:
 
-  `git add be1013015_aakarshit_uppal.md`
+  ```git
+  git add be1013015_aakarshit_uppal.md
+  ```
 
-- Commit with message: Add <your name>: 
+- Commit with message: Add `<your name>`:
 
-  `git commit -m "Add aakarshit"`
+  ```git
+  git commit -m "Add Aakarshit"
+  ```
 
 - Push while creating remote link for your branch:
 
-   `git push --set-upstream origin 2018_be1013015`
+   ```git
+   git push --set-upstream origin 2018_be1013015
+   ```
 
 - Go to GitHub and select `Compare & pull request`
 
